@@ -11,12 +11,13 @@
 ### [GitHub](https://github.com/fedjes) ###
 
 
-Briefly About Myself:
-
-I’m interested in Web Development because this occupation provides endless possibilities for professional growth,
-besides there’s a huge amount of free high quality resources for self-education and a large community of developers.
-
-I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
+## Briefly About Myself: ##
+ 
+I have worked in other fields in recent years. In this specialty I have no experience.  
+Self-motivated, energetic, responsible, proactive, attentive.  
+Able to learn and understand new concepts, ideas and technologies.  
+Communicative, able to work in a team. Stress-resistant, mobile.  
+Always trying to do my best or looking for ways to solve problems.  
 
 ## Skills and Proficiency: ## 
 * HTML, CSS
@@ -36,3 +37,14 @@ function simpleMultiplication(number) {
   }
 }
 ```
+
+## Courses: ##
+* __JavaScript/Front-end 2021Q3__ 
+* ###### Self-education ######
+* ##### JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress) #####
+* ##### RS Schools Course «JavaScript/Front-end 2022Q1 (in progress) #####
+
+## Languages: ## 
+* __English - A2__
+* __Russian__ - _Native_
+* __Belorussian__ - _Native_
