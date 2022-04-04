@@ -1,5 +1,143 @@
+body {
+    width: auto;
+    height: auto;
+    background-color: #F3F6F9;
+    
+}
+
+header {
+    text-align: center;
+}
+
+.big-h1 {
+    font-size: 40px;
+}
+
+h1 {
+    margin: 0;
+    font-family:"Segoe UI";
+    font-size: 26px;
+    font-weight: 800;
+    line-height: 1.1142857142857143;
+    color: #0A1929;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin: 0;
+    font-family:"Segoe UI";
+    font-size: 22px;
+    font-weight: 800;
+    line-height: 1.1142857142857143;
+    color: #0A1929;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+h4 {
+    margin: 0;
+    font-family:"Segoe UI";
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 1.1142857142857143;
+    color: #0A1929;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+i {
+    padding: 2px;
+}
+
+li {
+    list-style-type: none;
+    padding-bottom: 5px;
+    color: #3E5060;
+}
+
+p {
+    font-style: oblique;
+    color: #0A1929;
+}
+
 .main {
-    width: 100vw;
-    height: 100vh;
-    background-color: blue;
+    margin: auto;
+    width: 1024px;
+    height: auto;
+}
+
+.cv-logo {
+    border-top-left-radius: 15%;
+    border-top-right-radius: 15%;
+}
+
+
+.skills-and-proficiency img {
+    padding-top: 5px;
+}
+
+
+a {
+    
+    text-decoration: none;
+    color: black;
+}
+
+
+.contact-information img {
+    width: 120px;
+    padding-top: 65px;
+}
+
+.courses img {
+    width: 120px;
+    padding-top: 40px;
+}
+
+.photo {
+    align-self: center;
+}
+
+.photo img {
+    width: 300px;   
+}
+
+
+.container {
+    background-color: white;
+    border-radius: 10px;
+    border: solid rgba(0, 0, 0, 0.12);
+    margin-bottom: 16px;
+    padding-left: 46px;
+    padding-right: 46px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.right-block {
+    flex: 0 1 auto;
+    align-self: center;
+}
+
+.left-block {
+    flex: 1 1 auto;
+}
+
+.languages {
+    display: flex;
+    
+}
+.list {
+    padding-right: 280px;
+
+}
+.languages img {
+    width: 120px;
+    padding-top: 25px;
+}
+
+footer {
+    
+    text-align: center;
 }
