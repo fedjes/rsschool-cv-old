@@ -1,1 +1,2 @@
-# rsschool-cv
+
+https://fedjes.github.io/rsschool-cv/
